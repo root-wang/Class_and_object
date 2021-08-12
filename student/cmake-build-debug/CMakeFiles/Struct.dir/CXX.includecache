@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/code/C++/class_and_object/student/List.cpp
+List.h
+F:/code/C++/class_and_object/student/List.h
+iostream
+-
+string
+-
+
+F:/code/C++/class_and_object/student/List.h
+string
+-
+
+F:/code/C++/class_and_object/student/main.cpp
+iostream
+-
+string
+-
+List.h
+F:/code/C++/class_and_object/student/List.h
+
